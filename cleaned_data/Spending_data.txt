@@ -1,0 +1,53 @@
+Ocak			
+Google Ads	6.250,00	
+Instagram	3.798,00		
+Geliştirme	726	
+Ekstra	1800	
+Toplam	12574
+Şubat		
+Google Ads	3.500,00	
+Instagram	461,00		
+Geliştirme	726	
+Ekstra	1800	
+Toplam	6500
+Mart		
+google ads	147	
+instagram	5400	
+tally	965	
+Geliştirme	2460			
+toplam	9052
+Nisan		
+google ads	0	
+instagram	1630	
+tally	976	
+Geliştirme	1501	
+toplam	4597	
+Mayıs		
+google ads	0	
+instagram	0	
+tally	964	
+Geliştirme	856,00				
+toplam	1820	
+Haziran		
+geliştirme	1250		
+toplam	1250	
+Temmuz		
+Geliştirme	2.086,00	
+toplam	2.086,00	
+Ağustos		
+geliştirme	2.310,00		
+toplam	2310	
+Eylül		
+Geliştirme	11.428,00	
+Reklam Ödeme	15.071,00		
+ekstra	1.340,00		
+toplam	32019	
+Ekim		
+Geliştirme	6.850,00	
+Reklam Ödeme	21.169,00		
+ekstra	1.199,00		
+toplam	31117	
+Kasım		
+Geliştirme	15.938,00	
+Reklam Ödeme	30.967,00			
+toplam	46905	
